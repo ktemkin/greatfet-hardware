@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name magnolia-rescue)(type Legacy)(uri ${KIPRJMOD}/magnolia-rescue.lib)(options "")(descr ""))
+)
