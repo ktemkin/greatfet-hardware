@@ -1,4 +1,4 @@
-update=Sunday, July 01, 2018 at 03:02:06 PM
+update=Thursday, July 05, 2018 at 08:35:24 PM
 version=1
 last_client=kicad
 [general]
@@ -30,3 +30,13 @@ NetIExt=net
 [eeschema]
 version=1
 LibDir=
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=./
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
